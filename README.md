@@ -1,2 +1,2 @@
-# Polkadot
+# BluAI
 SLM for all
